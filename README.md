@@ -66,6 +66,7 @@ kemudian atur atribut setiap paragraf seperti berikut, amati perubahannya
     = tidak akan ada eror, tetapi tag yang diketik tidak akan muncul di website yang sudah dibuat
 
 2. apa perbedaan dari tag p dan tag br? berikan penjelasan nya !
+    
     = Tag p biasanya digunakan untuk menampilkan teks berurutan yang membentuk paragraf, sedangkan Tag br digunakan untuk membuat jeda baris baru (line break) di dalam teks atau konten
 
 3. apa perbedaan atribut title dan alt pada tag img? berikan penjelasanya !
