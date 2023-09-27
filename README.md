@@ -1,12 +1,11 @@
 # PENGANTAR HTML
+HTML (Hypertest Markup Language) merupakan bahasa markup yang digunakan untuk membuat sebuah halaman web dan menampilkan berbagai informasi didalam sebuah browser. HTML berupa kode-kode tag yang menginstruksikan browser untuk menghasilkan tampilan sesuai dengan yang diinginkan. HTML saat ini merupakan standar internet yang didefinisikan dan dikendalikan penggunaannya oleh World Wide Web Consortium (W3C)
 
-    HTML (Hypertest Markup Language) merupakan bahasa markup yang digunakan untuk membuat sebuah halaman web dan menampilkan berbagai informasi didalam sebuah browser. HTML berupa kode-kode tag yang menginstruksikan browser untuk menghasilkan tampilan sesuai dengan yang diinginkan. HTML saat ini merupakan standar internet yang didefinisikan dan dikendalikan penggunaannya oleh World Wide Web Consortium (W3C)
+HTML memilik struktur yang fleksibel, tanpa lojik serta toleran terhadap kesalahan, standar minimal dari dokumen HTML terdiri dari:
 
-    HTML memilik struktur yang fleksibel, tanpa lojik serta toleran terhadap kesalahan, standar minimal dari dokumen HTML terdiri dari:
-
-    - Document Type Declaration (DTD)
-    - Document Header
-    - Document Body
+- Document Type Declaration (DTD)
+- Document Header
+- Document Body
 
 
 # TAG DASAR HTML
